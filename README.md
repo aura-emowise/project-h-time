@@ -16,7 +16,7 @@ This repository contains a fully functional Proof of Concept (PoC) demonstrating
 
 **[➡️ CLICK link below TO LAUNCH THE LIVE DEMO 🚀]** 
 
-https://project-h-time.onrender.com
+https://project-h-time.onrender.com    OR     https://github.com/aura-emowise/project-h-time.git
 
 **Video here** --> https://youtu.be/4MqhVBmGUtI
 
