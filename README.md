@@ -14,7 +14,12 @@ Our core philosophy is to transform chaos and panic into a controlled, step-by-s
 
 This repository contains a fully functional Proof of Concept (PoC) demonstrating the core capabilities of our geo-analytical engine.
 
-**[➡️ CLICK HERE TO LAUNCH THE LIVE DEMO 🚀]((https://project-h-time.onrender.com)/)** 
+**[➡️ CLICK link below TO LAUNCH THE LIVE DEMO 🚀]** 
+
+https://project-h-time.onrender.com
+
+**Video here** --> https://youtu.be/4MqhVBmGUtI
+
 *(**Note:** This PoC is a "guided tour" and runs automatically for a consistent and impactful presentation.)*
 
 The demonstration showcases three distinct, pre-scripted scenarios:
