@@ -31,17 +31,17 @@ The demonstration showcases three distinct, pre-scripted scenarios:
 
 We invite the jury to assess our project based on the following three pillars:
 
-### 🎯 Value (Ценность)
+### 🎯 Value 
 **Personalization is our core value.** The system doesn't just issue a warning; it provides a personalized context.
 *   **User-Specific Data:** The dashboard displays the user's mock medical profile, demonstrating how this "last-mile" information can be critical for first responders.
 *   **Location-Specific Instructions:** The system analyzes the user's precise location relative to the threat, providing clear, unambiguous guidance. We don't just say "evacuate," we show *where to* and *how*.
 
-### ✨ Significance (Значимость)
+### ✨ Significance 
 **We turn data into a life-saving plan.** The project's significance lies in its ability to synthesize complex data streams into a simple, actionable output.
 *   **Multi-Source Data Aggregation (Simulated):** The PoC simulates aggregating data from various sources (e.g., meteorological, seismological) to model a threat zone in real-time.
 *   **Dynamic Safe-Routing:** The geo-analytical engine calculates the safest evacuation route on the fly, demonstrating its capacity to navigate users around danger zones. This is the heart of our intellectual property.
 
-### 📈 Scalability (Масштабируемость)
+### 📈 Scalability 
 **One engine, endless applications.** The architecture is designed for global scalability and adaptability.
 *   **Threat Agnostic:** The same core engine that models a flood can be re-tasked to model a fire, a tsunami, or a chemical spill by simply feeding it a different threat model and data set. The three distinct scenarios in this PoC prove this flexibility.
 *   **Cloud-Native & API-Driven:** Built on standard, globally available mapping APIs (Google Maps Platform), the system can be deployed anywhere in the world with minimal adaptation.
