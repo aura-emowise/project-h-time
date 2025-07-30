@@ -14,9 +14,13 @@ Our core philosophy is to transform chaos and panic into a controlled, step-by-s
 
 This repository contains a fully functional Proof of Concept (PoC) demonstrating the core capabilities of our geo-analytical engine.
 
+![Project H-Time Demo](https://raw.githubusercontent.com/aura-emowise/project-h-time/main/htime-demo.gif)
+
+
 **➡️ CLICK link below TO LAUNCH THE LIVE DEMO 🚀 **
 
-https://project-h-time.onrender.com    OR     https://github.com/aura-emowise/project-h-time.git
+https://project-h-time.onrender.com    
+
 
 **Video here** --> https://youtu.be/4MqhVBmGUtI
 
